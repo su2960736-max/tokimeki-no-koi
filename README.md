@@ -1,3 +1,2 @@
-X.png tap.
-Download.
+X.png Download.
 Next is .........
